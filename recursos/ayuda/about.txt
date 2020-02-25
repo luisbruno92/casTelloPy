@@ -1,0 +1,1 @@
+Archivos de ayuda para comprender funcionamiento de las interfaces.
