@@ -1,0 +1,1 @@
+Aquí se guardarán imágenes tomadas durante test_imagenes.py
