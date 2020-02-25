@@ -50,7 +50,7 @@ El proyecto casTelloPy podrá (o no) ser distribuido en conjunto con el archivo 
 
 A la fecha no se brinda soporte para el "modo enjambre" de los drones. Para desarrollos que involucren dicha modalidad, visitar proyecto DJITelloPY de DAMIÀ FUENTES ESCOTÉ.
 
-*As of the current date no support for the drone's "swarm mode" is provided. For developments that involve such modality, visit DAMIÀ FUENTES ESCOTÉ's DJITelloPy project. *
+*As of the current date no support for the drone's 'swarm mode' is provided. For developments that involve such modality, visit DAMIÀ FUENTES ESCOTÉ's DJITelloPy project.*
 
 ## AUTOR / AUTHOR
 
