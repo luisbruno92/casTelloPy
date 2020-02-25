@@ -1,0 +1,1 @@
+Las imágenes tomadas con las interfaces para el Dron serán guardadas en esta carpeta.
