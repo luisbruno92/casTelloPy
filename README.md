@@ -14,7 +14,7 @@ casTelloPy se basa ampliamente en el desarrollo de DAMIÀ FUENTES ESCOTÉ regist
 
 URL fuente proyecto DJITellopy / DJITelloPy project source URL:
 
-github.com/damiafuentes/DJITelloPy
+https://github.com/damiafuentes/DJITelloPy
 
 
 ## INSTALACIÓN / INSTALLATION
@@ -56,11 +56,15 @@ A la fecha no se brinda soporte para el "modo enjambre" de los drones. Para desa
 
 Luis (Lucho) Bruno.
 
+Email:
+luisbruno.prof@gmail.com
+
 Web Site: -
 
 LinkedIn: -
 
-Fuente / Source: -
+Fuente / Source:
+https://github.com/luisbruno92/casTelloPy
 
 ## LICENCIA / LICENSE
 
