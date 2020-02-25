@@ -59,9 +59,9 @@ Luis (Lucho) Bruno.
 Email:
 luisbruno.prof@gmail.com
 
-Web Site: -
+Web Site: https://sites.google.com/view/luisbruno
 
-LinkedIn: -
+LinkedIn: hhtps://www.linkedin.com/in/luis-bruno
 
 Fuente / Source:
 https://github.com/luisbruno92/casTelloPy
