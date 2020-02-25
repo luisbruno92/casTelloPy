@@ -74,5 +74,5 @@ El proyecto casTelloPy se encuentra bajo Licencia MIT. Ver archivo de licencia p
 
 Se incluye citación debida de licencias en trabajo derivativo de desarrollos de terceros en los archivos correspondientes tal como se explica más arriba.
 
-Due license quatation of third-party developments within derivative works is made on corresponding files as is explained above.
+*Due license quatation of third-party developments within derivative works is made on corresponding files as is explained above.*
 
