@@ -107,10 +107,11 @@ class Interfaz(object):
 		if self.archivo_mision:
 			ar = open(self.archivo_mision,"r")
 			for l in ar.readlines():
-				try:
-					self.dron_controlado.enviar_comando_con_respuesta(l.replace("\n",""))
-				except:
-					self.dron_controlado.enviar_comando_con_respuesta("land")
+				if(l.replace("\n","").replace(" ","") != ""):
+					try:
+						self.dron_controlado.enviar_comando_con_respuesta(l.replace("\n",""))
+					except:
+						self.dron_controlado.enviar_comando_con_respuesta("land")
 			# self.finalizar() # innecesario porque saltea bucle de correr() y llega a finalizar()
 			# MEJORAR: Se podria iniciar ventana pygame, con imagen de fondo: "Ejecutando mision de archivo", habilitando ESC para finalizar
 		else:
