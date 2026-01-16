@@ -89,3 +89,12 @@ See `license.txt` for details.
 URL fuente proyecto DJITellopy / DJITelloPy project source URL:
 
 https://github.com/damiafuentes/DJITelloPy
+
+## About Author
+luisbruno.prof@gmail.com
+
+Web Site + Portfolio: https://luisbruno.info
+
+Notion: https://luisbruno.info/notion
+
+LinkedIn: hhtps://www.linkedin.com/in/luis-bruno
