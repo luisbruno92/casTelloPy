@@ -97,4 +97,4 @@ Web Site + Portfolio: https://luisbruno.info
 
 Notion: https://luisbruno.info/notion
 
-LinkedIn: hhtps://www.linkedin.com/in/luis-bruno
+LinkedIn: https://www.linkedin.com/in/luis-bruno
